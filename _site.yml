@@ -2,10 +2,10 @@ name: "Faruk Shogi"
 navbar:
   title: "Faruk Shogi"
   left:
-    - text: "Home"
+    - text: "Anasayfa"
       href: index.html
-    - text: "Journal"
+    - text: "Yazılar"
       href: Journal.html
-    - text: "Links"
+    - text: "Tavsiye ettiğim kaynaklar"
       href: Links.html
 output_dir: "docs"
