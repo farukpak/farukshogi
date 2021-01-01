@@ -18,8 +18,7 @@ output: html_document
 <div class="col-sm-6">
 
 # **Faruk Shogi**
-
-This is a template example for lab journaling. Students in Matt Crump's Human Cognition and Performance Lab will use this template to learn R, and other things. Students can replace this text with more fun things. People not in my lab can use this too.
+Kişisel Websiteme hoşgeldiniz. Sadece Türkçe konuşan insanları Shogi (ilerde Xiangqi üzerine de yazılar yazabilirim.) oyunu hakkında bilgilendirmek için böyle bir girişimde bulundum. 
 
 ## How to use
 
