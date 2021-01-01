@@ -24,7 +24,7 @@ Kişisel Websiteme hoşgeldiniz. Sadece Türkçe konuşan insanları Shogi (iler
 </div>
 <div class="col-sm-6">
 
-![](images/logo.png)
+![](images/logo.jpg)
 
 
 <a href="https://creativecommons.org/licenses/by-sa/2.0/">(license)</a>
