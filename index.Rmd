@@ -20,16 +20,6 @@ output: html_document
 # **Faruk Shogi**
 Kişisel Websiteme hoşgeldiniz. Sadece Türkçe konuşan insanları Shogi (ilerde Xiangqi üzerine de yazılar yazabilirim.) oyunu hakkında bilgilendirmek için böyle bir girişimde bulundum. 
 
-## How to use
-
-1. fork the repo for this website and follow instructions on read me to get set up. [https://github.com/CrumpLab/LabJournalWebsite](https://github.com/CrumpLab/LabJournalWebsite)
-
-2. Blog/journal what you are doing in R, by editing the Journal.Rmd. See the [Journal page](https://crumplab.github.io/LabJournalWebsite/Journal.html) for an example of what to do to get started learning R.
-
-3. See the [links page](https://crumplab.github.io/LabJournalWebsite/Links.html) for lots of helpful links on learning R.
-
-4. Change everything to make it your own.
-
 
 </div>
 <div class="col-sm-6">
