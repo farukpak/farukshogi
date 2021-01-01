@@ -24,7 +24,7 @@ Kişisel Websiteme hoşgeldiniz. Sadece Türkçe konuşan insanları Shogi (iler
 </div>
 <div class="col-sm-6">
 
-<a href="http://www.flickr.com/photos/81497476@N00/48446261702">Tokyu Shogi Matsuri</a> via <a href="http://photopin.com">photopin</a>
+![](images/logo.png)
 
 
 <a href="https://creativecommons.org/licenses/by-sa/2.0/">(license)</a>
