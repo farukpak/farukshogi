@@ -5,3 +5,7 @@ output: html_document
 
 
 #Tavsiye ettiğim Shogi kaynakları, Başlangıç düzeyinden daha ileri seviyelere kadar her türlü kaynak mevcut
+
+Hidetchi'nin Youtube Oynatma Listeleri, İlk liste oyunun kurallarını, ikinci liste açılışları anlatıyor. (https://www.youtube.com/playlist?list=PL587865CAE59EB84A)
+
+(https://www.youtube.com/playlist?list=PL5CD9EDBA4FC444A8)
