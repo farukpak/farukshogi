@@ -4,4 +4,4 @@ output: html_document
 ---
 
 
-
+###Tavsiye ettiğim Shogi kaynakları, Başlangıç düzeyinden daha ileri seviyelere kadar her türlü kaynak mevcut
