@@ -9,3 +9,7 @@ output: html_document
 Hidetchi'nin Youtube Oynatma Listeleri, İlk liste oyunun kurallarını, ikinci liste açılışları anlatıyor. (https://www.youtube.com/playlist?list=PL587865CAE59EB84A)
 
 (https://www.youtube.com/playlist?list=PL5CD9EDBA4FC444A8)
+
+
+Bir çok farklı kaynağın toplanmış hali. Kendin yap shogi setlerinden Tsume-Mini Shogi problemleri- kitaplarına kadar her şey var. 
+(https://drive.google.com/drive/folders/1csxZKVDKCAKnbzt0-pInodsbcF_h0a9q)
